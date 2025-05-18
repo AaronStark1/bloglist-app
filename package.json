@@ -7,7 +7,7 @@
     "dev": "NODE_ENV=development node --watch index.js",
     "test": "NODE_ENV=test node --test",
     "start:test": "NODE_ENV=test node index.js",
-    "build:ui": "rm -rf dist && cd ../fullstackopen-exercises/part7/bloglist-part7/bloglist-redux && npm run build && cp -r dist ../../bloglist-deploy-backend",
+    "build:ui": "rm -rf dist && cd /d/Github/fullstackopen-exercises/part7/bloglist-part7/bloglist-redux && npm run build && cp -r dist /d/Github/bloglist-deploy-backend",
     "deploy:full": "npm run build:ui && git add . && git commit -m \"uibuild\" && git push"
   },
   "keywords": [],
