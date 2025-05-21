@@ -33,6 +33,49 @@
 [![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=for-the-badge)](https://vitest.dev/)
 
 
+## 🔐 Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`MONGODB_URI` : 'your MONGO_DB uri'
+
+`SECRET` : 'your_jwt_secret'
+
+`PORT` : 3001
+
+### Prerequisites
+ [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
+
+
+## 🧩 Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/AaronStark1/bloglist-app.git
+```
+
+Go to the project directory
+
+```bash
+  cd bloglist-app
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+
 ## Screenshots
 ### Detailed Blog View
 ![detailed_blog_view](https://github.com/user-attachments/assets/53eb980e-6c50-4b0f-a842-4141039f12f4)
