@@ -31,6 +31,8 @@
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)](https://eslint.org/)
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=for-the-badge)](https://prettier.io/)
 [![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=for-the-badge)](https://vitest.dev/)
+[![Dotenv](https://img.shields.io/badge/-Dotenv-8DD6F9?logo=dotenv&logoColor=black&style=for-the-badge)](https://www.npmjs.com/package/dotenv)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
 
 
 ## 🔐 Environment Variables
